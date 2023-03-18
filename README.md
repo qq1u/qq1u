@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D13F7&width=435&lines=Hi%2CI'm+Hugh.)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=108AF7&width=435&lines=Hi%2CI'm+Hugh.)](https://git.io/typing-svg)
+
 ### Hi there 👋
 - 👩‍💻 I'm currently working backend engineer related
 - 🌱 I’m currently learning python, golang
