@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about Python、Gloang
+- 👩‍💻 I'm currently working backend engineer related
+- 🌱 I’m currently learning python, golang
 
 <details>
   <summary>Some other facts about me</summary>
